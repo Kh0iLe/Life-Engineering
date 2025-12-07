@@ -46,12 +46,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/EO.md",
+                    "file": "Notes/Edge8.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "EO"
+                  "title": "Edge8"
                 }
               }
             ],
@@ -250,8 +250,9 @@
   },
   "active": "8f91a56c230dca81",
   "lastOpenFiles": [
-    "2025-12-07.md",
+    "Notes/HubSpot.md",
     "Notes/EO.md",
+    "2025-12-07.md",
     "Notes/Weekly Tasks.md",
     "Tips & Tools/Entrepreneurship.md",
     "Notes/Daily Standup.md",
@@ -262,7 +263,6 @@
     "Frontend/Frameworks/Next.md",
     "Notes/Edge8.md",
     "Notes/Notes.md",
-    "Notes/HubSpot.md",
     "Notes/Contingencies.md",
     "Notes/Automation.md",
     "Notes/Hackathon.md",
